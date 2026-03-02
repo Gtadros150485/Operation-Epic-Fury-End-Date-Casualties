@@ -1,0 +1,96 @@
+
+CRITICAL DATA TO COLLECT DAILY:
+═══════════════════════════════════════════════════════════════════════════
+
+1. WEAPONS USAGE TRACKING (Priority: CRITICAL)
+   ─────────────────────────────────────────────
+   □ Number of missiles launched (by type)
+   □ Number of drones launched (by type)
+   □ Interception rates by defense system
+   □ Successful strikes vs total launches
+   
+   Sources: CENTCOM reports, IDF spokesperson, Iranian media
+
+2. FACILITY DESTRUCTION (Priority: CRITICAL)
+   ──────────────────────────────────────────
+   □ Production facilities hit (Isfahan, Parchin, etc.)
+   □ Storage depots destroyed
+   □ Damage assessment (% capacity lost)
+   □ Underground facilities accessed
+   
+   Sources: Satellite imagery (Planet, Maxar), bomb damage assessment
+
+3. STRATEGIC OBJECTIVES PROGRESS (Priority: HIGH)
+   ────────────────────────────────────────────────
+   □ Nuclear facilities status (Natanz, Fordow, Arak)
+   □ IRGC leadership casualties (confirmed)
+   □ Air defense systems destroyed
+   □ Ballistic missile launchers neutralized
+   
+   Sources: Intelligence reports, verified imagery, Iranian statements
+
+4. RESUPPLY & PRODUCTION (Priority: HIGH)
+   ───────────────────────────────────────
+   □ Evidence of new weapons production
+   □ Shipments from Russia/China (if any)
+   □ Underground facility activity
+   □ Production rate estimates
+   
+   Sources: SIGINT, shipping tracking, manufacturing indicators
+
+5. COALITION OPERATIONS (Priority: MEDIUM)
+   ────────────────────────────────────────
+   □ Sortie rates (aircraft missions/day)
+   □ Munitions expenditure
+   □ B-2/B-52 deployment patterns
+   □ Carrier strike group positioning
+   
+   Sources: Pentagon briefings, flight tracking, naval positions
+
+6. IRANIAN CAPABILITIES ASSESSMENT (Priority: HIGH)
+   ──────────────────────────────────────────────────
+   □ Remaining missile inventory (intelligence estimates)
+   □ Operational launchers
+   □ Command & control status
+   □ Morale indicators
+   
+   Sources: Intelligence community assessments, OSINT
+
+7. ECONOMIC & POLITICAL INDICATORS (Priority: MEDIUM)
+   ───────────────────────────────────────────────────
+   □ Oil prices & export levels
+   □ Domestic Iranian protests/stability
+   □ International diplomatic pressure
+   □ UN/regional mediation efforts
+   
+   Sources: Financial markets, social media, diplomatic channels
+
+8. COST TRACKING (Priority: LOW)
+   ────────────────────────────
+   □ Munitions costs (interceptors + strike)
+   □ Operational expenditure
+   □ Economic impact on both sides
+   
+   Sources: DoD budget reports, Israeli MoD
+
+HOW TO USE THIS DATA:
+═══════════════════════════════════════════════════════════════════════════
+
+Daily Update Protocol:
+1. Collect data points 1-3 (critical) every day
+2. Update model with actual vs predicted weapons usage
+3. Recalculate remaining inventory
+4. Adjust production capacity based on facility strikes
+5. Update strategic objectives completion percentage
+6. Regenerate duration prediction
+
+Model Refinement:
+- If actual weapon usage > predicted: Conflict will end SOONER
+- If facility destruction > expected: Production capacity drops, conflict ends SOONER
+- If objectives completed faster: War ends on objectives timeline
+- If resupply detected: Extend duration estimate
+
+Validation Thresholds:
+- Day 4-7: Model accuracy within ±20% → Continue using model
+- Day 4-7: Model error > 30% → Recalibrate with new data
+- Day 8+: Weekly recalibration with cumulative data
